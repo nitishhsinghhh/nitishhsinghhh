@@ -6,6 +6,11 @@
     <br>
 </p>
 
+<details>
+  <summary>📫 How to reach me?</summary>
+  <b>Email:</b> <a href="me.singhnitish@yandex.com">me.singhnitish@yandex.com</a><br>
+</details>
+
 
  ## 🌐 Socials
    
