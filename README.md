@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!-- STREAK STATS -->
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=abs0luty&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
+
  ## 🌐 Socials
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nitishhsinghhh/) 
