@@ -6,6 +6,14 @@
     <br>
 </p>
 
+<!-- STATS -->
+<a href="https://github.com/abs0luty/github-stats">
+  <p align='center'>
+    <img width="40%" src="https://github.com/abs0luty/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+    <img width="40%" src="https://github.com/abs0luty/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+  </p>
+</a>
+
  ## 🌐 Socials
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nitishhsinghhh/) 
