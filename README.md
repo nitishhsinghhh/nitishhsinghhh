@@ -2,15 +2,15 @@
 
 <!-- STREAK STATS -->
 <p align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abs0luty&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
     <br>
 </p>
 
 <!-- STATS -->
-<a href="https://github.com/abs0luty/github-stats">
+<a href="https://github.com/nitishhsinghhh/github-stats">
   <p align='center'>
-    <img width="40%" src="https://github.com/abs0luty/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-    <img width="40%" src="https://github.com/abs0luty/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+    <img width="40%" src="https://github.com/nitishhsinghhh/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+    <img width="40%" src="https://github.com/nitishhsinghhh/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
   </p>
 </a>
 
