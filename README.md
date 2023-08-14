@@ -8,7 +8,7 @@
 
 <details>
   <summary>📫 How to reach me?</summary>
-  <b>Email:</b> <a href="me.singhnitish@yandex.com">me.singhnitish@yandex.com</a><br>
+  <b>Email:</b> <a>me.singhnitish@yandex.com</a>
 </details>
 
 
