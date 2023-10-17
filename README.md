@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-[![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishhsinghhh)](https://github.com/nitishhsinghhh/github-readme-stats)
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </p>
 
 <details>
