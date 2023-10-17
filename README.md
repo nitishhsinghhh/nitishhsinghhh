@@ -6,6 +6,8 @@
     <br>
 </p>
 
+![Nitish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&include_all_commits=true&theme=ocean_dark&border_color=6b03fc) | ![Nitish's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishhsinghhh&theme=ocean_dark&langs_count=10&&border_color=6b03fc)
+
 <details>
   <summary>📫 How to reach me?</summary>
   <b>Email:</b> <a>me.singhnitish@yandex.com</a>
