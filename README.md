@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="skg24" /> </p>
+
 <!-- STREAK STATS -->
 <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
