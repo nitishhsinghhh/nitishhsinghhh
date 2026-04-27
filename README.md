@@ -43,10 +43,15 @@
 ---
 
 ### Professional Focus
-- **Currently Building:** Distributed tracing systems using OpenTelemetry and Jaeger for cross-process native calls.
-- **Learning:** Rust-based memory safety to complement C++ native engines.
-- **Ask me about:** P/Invoke bottlenecks, Apple Silicon thread residency, or Docker environment promotion.
-- **Fun Fact:** I match my Docker replica counts to the physical Performance cores of my CPU.
+I specialize in bridging the gap between high-level application logic (.NET 8) and low-level execution (C++17/20). My engineering philosophy is simple: "**Software is details. Performance is physics.**"
+
+- Distributed Observability: Currently building cross-process tracing systems using OpenTelemetry and Jaeger to provide deep visibility into native P/Invoke call stacks.
+
+- Systems Evolution: Mastering Rust-based memory safety to complement and modernize legacy C++ native engines.
+
+- Hardware-Aware Orchestration: Optimizing container density by matching Docker replica counts to the physical Performance Cores of Apple Silicon (M2).
+
+- Native Interop Mastery: Solving bottlenecks in P/Invoke pipelines and managing ARM64 thread residency for high-throughput microservices.
 
 ---
 
