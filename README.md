@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="nitishhsinghhh" /> 
 </p>
 
-> **Architecting High-Performance Distributed Systems & Native Interop Engines.** Focused on the intersection of managed runtimes (.NET 8) and high-concurrency native logic (C++17). Specialist in ARM64 (Apple Silicon) optimization and Zero-Leak memory safety.
+> **Architecting High-Performance Systems & Native Interop Engines.** Focused on the intersection of managed runtimes (.NET 8) and high-concurrency native logic (C++17). Specialist in ARM64 (Apple Silicon) optimization and Zero-Leak memory safety.
 
 ---
 
