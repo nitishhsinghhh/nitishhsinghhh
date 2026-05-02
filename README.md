@@ -15,6 +15,7 @@
 | **Backend & Systems** | .NET 8 (C#), C++17, P/Invoke ABI | Docker (Multi-Arch), NGINX, GitHub Actions |
 | **Hardware Targets** | **Apple M2** (P/E-Cluster), **Windows x64** | ARM64 & x86_64 Instruction Sets |
 | **Performance** | Grafana k6, OpenTelemetry, Jaeger | Powermetrics (macOS), PerfView (Windows) |
+| **Data & Lakehouse** |	Apache Spark, Delta Lake, DuckDB	| Open Source Databricks Stack (Lakehouse) |
 | **Architecture** | Microservices, Strategy Pattern | Multi-platform CI/CD Build Pipelines |
 
 ---
