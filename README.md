@@ -21,7 +21,7 @@
 ---
 
 ### Featured Engineering: [Case Conversion Engine](https://github.com/nitishhsinghhh/case-conversion-api)
-*A polyglot microservice demonstrating low-latency native interop and hardware-aware scaling.*
+*A polyglot service demonstrating low-latency native interop and hardware-aware scaling.*
 
 * **P/Invoke Mastery:** Built a C-style ABI wrapper to bridge managed .NET code with a high-performance C++ engine.
 * **1M Request Milestone:** Successfully validated system stability through a 1,000,000 request soak test with 100% success rate and '< 20MB' memory delta.
