@@ -36,11 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=transparent&hide_border=true&title_color=08E8FF&icon_color=06ACBD&text_color=555&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishhsinghhh&layout=compact&theme=transparent&hide_border=true&title_color=08E8FF&text_color=555&count_private=true" />
-</div>
-
 ---
 
 ### Professional Focus
