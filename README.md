@@ -37,8 +37,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=transparent&hide_border=true&title_color=08E8FF&icon_color=06ACBD&text_color=555" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishhsinghhh&layout=compact&theme=transparent&hide_border=true&title_color=08E8FF&text_color=555" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=transparent&hide_border=true&title_color=08E8FF&icon_color=06ACBD&text_color=555&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishhsinghhh&layout=compact&theme=transparent&hide_border=true&title_color=08E8FF&text_color=555&count_private=true" />
 </div>
 
 ---
