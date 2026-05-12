@@ -25,7 +25,7 @@
 
 * **P/Invoke Mastery:** Built a C-style ABI wrapper to bridge managed .NET code with a high-performance C++ engine.
 * **1M Request Milestone:** Successfully validated system stability through a 1,000,000 request soak test with 100% success rate and '< 20MB' memory delta.
-* **M2 Optimization:** Orchestrated 4-replica clusters via NGINX to match the physical P-Cores of the M2 chip, achieving **2,500+ req/s**.
+* **M2 Optimization:** Orchestrated 4-replica clusters via NGINX to match the physical P-Cores of the M2 chip, achieving **7,067+ req/s**.
 * **Zero-Leak Policy:** Implemented strict "Callee-Allocates, Caller-Frees" memory contracts for zero-drift native execution.
 
 ---
