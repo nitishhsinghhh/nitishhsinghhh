@@ -49,6 +49,8 @@ I specialize in bridging the gap between high-level application logic (.NET 8) a
 
 - **Native Interop Mastery:** Solving bottlenecks in P/Invoke pipelines and managing ARM64 thread residency for high-throughput microservices.
 
+- **Mentorship & Best Practices:** Driving the adoption of modern C++17/20 standards and Rust-based memory safety to modernize legacy native foundations. 
+
 ---
 
 ### Connect & Collaborate
