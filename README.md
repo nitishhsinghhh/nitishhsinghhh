@@ -33,17 +33,12 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <!-- Profile Views Tracker via Badgen Proxy -->
-  <img src="https://badgen.net/badge/Total%20Profile%20Views/tracked/06acbd" alt="Profile Views" />
-  
-  <!-- Global Commits Indicator -->
-  <img src="https://img.shields.io/badge/Global%20Commits-Active-047884?style=flat-square&logo=github" alt="Total Commits" />
-  
-  <!-- Language Focus Tags -->
-  <img src="https://img.shields.io/badge/Core%20Engine-C%2B%2B17%20%7C%20.NET%208-0e75b6?style=flat-square" alt="Language Balance" />
-  
-  <!-- Activity Velocity -->
-  <img src="https://img.shields.io/badge/Velocity-High%20Frequency-green?style=flat-square&logo=git" alt="Commit Velocity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&icon_color=06ACBD&text_color=a5b4fc" alt="Nitish's GitHub Total Commits" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=nitishhsinghhh&layout=compact&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&text_color=a5b4fc" alt="Nitish's Language Percentages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Total%20Profile%20Views&color=06ACBD&style=flat-square" alt="Profile Views Counter" />
 </p>
 
 ---
