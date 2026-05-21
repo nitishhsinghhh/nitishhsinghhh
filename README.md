@@ -37,15 +37,6 @@
   <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Monthly%20Commits&color=06ACBD" alt="Monthly Commits" />
   <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&label=Primary%20Engine&color=0e75b6" alt="Top Language" />
 
-  <!-- 1. Total Lines of Code in the Engine -->
-<img src="https://img.shields.io/tokei/lines/github/nitishhsinghhh/case-conversion-api?style=flat-square&label=Total%20Lines&color=047884" alt="Lines of Code" />
-
-<!-- 2. Total Number of Code Files -->
-<img src="https://img.shields.io/github/directory-file-count/nitishhsinghhh/case-conversion-api?style=flat-square&label=Engine%20Files&color=06ACBD" alt="File Count" />
-
-<!-- 3. Main Production Branch Name -->
-<img src="https://img.shields.io/github/v/release/nitishhsinghhh/case-conversion-api?include_prereleases&style=flat-square&label=Deploy%20Branch&color=0e75b6" alt="Branch Target" />
-
 <!-- 4. Total Repository Storage Size -->
 <img src="https://img.shields.io/github/repo-size/nitishhsinghhh/case-conversion-api?style=flat-square&label=Disk%20Footprint&color=007acc" alt="Repo Size" />
 
