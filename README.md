@@ -32,6 +32,8 @@
 
 ### Technical Metrics & Velocity
 
+### Technical Metrics & Velocity
+
 <p align="center">
   <!-- Real-time Profile Views Counter -->
   <img src="https://profile-counter.glitch.me/nitishhsinghhh/count.svg" alt="Total Profile Views" />
@@ -41,8 +43,15 @@
   <!-- Live Total Public Repositories Count -->
   <img src="https://img.shields.io/github/repositories/nitishhsinghhh?style=flat-square&logo=github&label=Total%20Repositories&color=047884" alt="Total Repositories" />
 
-  <!-- Live Open Pull Requests (Global Activity Tracker) -->
-  <img src="https://img.shields.io/github/issues-pr/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Engine%20PRs&color=06ACBD" alt="Active PRs" />
+  <!-- Live Public Commit Activity (Last 30 Days Data Stream) -->
+  <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Monthly%20Commits&color=06ACBD" alt="Monthly Commits" />
+
+  <!-- Hardcoded Language Distribution Badge -->
+  <img src="https://img.shields.io/badge/Primary%20Engine-C%2B%2B%2053%25-0e75b6?style=flat-square&logo=c%2B%2B" alt="Primary Language Percentage" />
+</p>
+
+
+<p align="center">
 
   <!-- Live Top Language Percentage Baseline -->
   <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&label=Primary%20Engine&color=0e75b6" alt="Top Language" />
