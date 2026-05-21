@@ -33,7 +33,10 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=leafy&hide_border=true&bg_color=00000000&title_color=047884&icon_color=06ACBD&text_color=0e75b6" alt="Nitish's GitHub Stats" />
+  <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&label=Monthly%20Commits&color=047884" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/repo-size/nitishhsinghhh/case-conversion-api?style=flat-square&label=Engine%20Size&color=06ACBD" alt="Repository Size" />
+  <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&color=0e75b6" alt="Top Language" />
+  <img src="https://img.shields.io/github/v/release/nitishhsinghhh/case-conversion-api?style=flat-square&label=Engine%20Version&color=0e75b6" alt="Latest Release" />
 </p>
 
 ---
