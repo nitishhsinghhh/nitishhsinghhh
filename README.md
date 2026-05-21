@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-Active-047884?style=flat-square&logo=github" alt="Total Repositories" />
+  <img src="https://img.shields.io/github/directory-file-count/nitishhsinghhh/case-conversion-api?style=flat-square&logo=github&label=Total%20Repositories&color=047884" alt="Total Repositories" />
   <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Monthly%20Commits&color=06ACBD" alt="Monthly Commits" />
   <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&label=Primary%20Engine&color=0e75b6" alt="Top Language" />
 </p>
