@@ -33,7 +33,9 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Total%20Profile%20Views&color=06ACBD&style=flat-square" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/github/followers/nitishhsinghhh?style=flat-square&logo=github&label=Network&color=047884" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Contributions-Global-06ACBD?style=flat-square&logo=git" alt="Global Contributions" />
+  <img src="https://img.shields.io/github/search/nitishhsinghhh/polyglot-engine?style=flat-square&label=Activity&color=0e75b6" alt="Code Activity" />
 </p>
 
 ---
