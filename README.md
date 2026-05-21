@@ -32,9 +32,6 @@
 
 ### Technical Metrics & Velocity
 
-### Technical Metrics & Velocity
-
-
 <p align="center">
   <img src="https://img.shields.io/github/directory-file-count/nitishhsinghhh/case-conversion-api?style=flat-square&logo=github&label=Total%20Repositories&color=047884" alt="Total Repositories" />
   <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Monthly%20Commits&color=06ACBD" alt="Monthly Commits" />
