@@ -33,17 +33,15 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <!-- Profile Views Tracker via Badgen Proxy -->
-  <img src="https://badgen.net/badge/Total%20Profile%20Views/tracked/06acbd" alt="Profile Views" />
-  
-  <!-- Global Commits Indicator -->
+  <!-- Real-time Profile Views Counter -->
+  <img src="https://profile-counter.glitch.me/nitishhsinghhh/count.svg" alt="Total Profile Views" />
+</p>
+
+<p align="center">
+  <!-- Account Metrics & Language Focus -->
   <img src="https://img.shields.io/badge/Global%20Commits-Active-047884?style=flat-square&logo=github" alt="Total Commits" />
-  
-  <!-- Language Focus Tags -->
-  <img src="https://img.shields.io/badge/Core%20Engine-C%2B%2B17%20%7C%20.NET%208-0e75b6?style=flat-square" alt="Language Balance" />
-  
-  <!-- Activity Velocity -->
-  <img src="https://img.shields.io/badge/Velocity-High%20Frequency-green?style=flat-square&logo=git" alt="Commit Velocity" />
+  <img src="https://img.shields.io/badge/Primary%20Engine-C%2B%2B17%20%2F%20.NET%208-0e75b6?style=flat-square" alt="Language Balance" />
+  <img src="https://img.shields.io/badge/Architecture-Polyglot%20%7C%20ARM64-06ACBD?style=flat-square" alt="System Scope" />
 </p>
 
 ---
