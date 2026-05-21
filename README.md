@@ -32,8 +32,8 @@
 
 ### Technical Metrics & Velocity
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true" alt="GitHub Streak Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=leafy&hide_border=true&bg_color=00000000&title_color=047884&icon_color=06ACBD&text_color=0e75b6" alt="Nitish's GitHub Stats" />
 </p>
 
 ---
