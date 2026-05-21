@@ -37,12 +37,18 @@
   <img src="https://profile-counter.glitch.me/nitishhsinghhh/count.svg" alt="Total Profile Views" />
 </p>
 
-| Metric | Historical Velocity & Distribution |
-| :--- | :--- |
-| **Lifetime Commits** | ![All-Time Activity](https://img.shields.io/badge/All--Time%20Commits-100%25%20Lifetime%20Tracked-047884?style=flat-square) |
-| **Yearly Cadence** | ![Yearly Push](https://img.shields.io/badge/Yearly%20Velocity-High%20Frequency%20Contributions-06ACBD?style=flat-square&logo=git) |
-| **Core Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-High%20Performance%20Engine-0e75b6?style=flat-square&logo=c%2B%2B) ![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-Managed%20API%20Gateway-1565C0?style=flat-square&logo=.net) |
-| **Architectures** | ![ARM64 Optimization](https://img.shields.io/badge/Hardware-Apple%20M2%20P--Cores-green?style=flat-square) |
+<p align="center">
+  <!-- Live Total Public Repositories Count -->
+  <img src="https://img.shields.io/github/repositories/nitishhsinghhh?style=flat-square&logo=github&label=Total%20Repositories&color=047884" alt="Total Repositories" />
+
+  <!-- Live Open Pull Requests (Global Activity Tracker) -->
+  <img src="https://img.shields.io/github/issues-pr/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Engine%20PRs&color=06ACBD" alt="Active PRs" />
+
+  <!-- Live Top Language Percentage Baseline -->
+  <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&label=Primary%20Engine&color=0e75b6" alt="Top Language" />
+</p>
+
+---
 
 ---
 
