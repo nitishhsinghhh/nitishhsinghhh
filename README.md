@@ -33,11 +33,6 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&icon_color=06ACBD&text_color=a5b4fc" alt="Nitish's GitHub Total Commits" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=nitishhsinghhh&layout=compact&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&text_color=a5b4fc" alt="Nitish's Language Percentages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Total%20Profile%20Views&color=06ACBD&style=flat-square" alt="Profile Views Counter" />
 </p>
 
