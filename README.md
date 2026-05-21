@@ -33,10 +33,9 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&label=Monthly%20Commits&color=047884" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/repo-size/nitishhsinghhh/case-conversion-api?style=flat-square&label=Engine%20Size&color=06ACBD" alt="Repository Size" />
-  <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&color=0e75b6" alt="Top Language" />
-  <img src="https://img.shields.io/github/v/release/nitishhsinghhh/case-conversion-api?style=flat-square&label=Engine%20Version&color=0e75b6" alt="Latest Release" />
+  <img src="https://img.shields.io/github/followers/nitishhsinghhh?style=flat-square&logo=github&label=Network&color=047884" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Contributions-Global-06ACBD?style=flat-square&logo=git" alt="Global Contributions" />
+  <img src="https://img.shields.io/github/search/nitishhsinghhh/polyglot-engine?style=flat-square&label=Activity&color=0e75b6" alt="Code Activity" />
 </p>
 
 ---
