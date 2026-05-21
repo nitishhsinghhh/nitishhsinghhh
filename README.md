@@ -33,18 +33,16 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <!-- Lifetime Profile Views Counter -->
+  <!-- Real-time Profile Views Counter -->
   <img src="https://profile-counter.glitch.me/nitishhsinghhh/count.svg" alt="Total Profile Views" />
 </p>
 
-<p align="center">
-  <!-- Left Card: Lifetime Commits & Yearly Activity -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&icon_color=06ACBD&text_color=a5b4fc" alt="Nitish's GitHub Global Commits" width="49%" />
-  
-  <!-- Right Card: Core Language Distribution Matrix -->
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=nitishhsinghhh&layout=compact&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&text_color=a5b4fc" alt="Nitish's Major Languages Percentage" width="49%" />
-</p>
-
+| Metric | Historical Velocity & Distribution |
+| :--- | :--- |
+| **Lifetime Commits** | ![All-Time Activity](https://img.shields.io/badge/All--Time%20Commits-100%25%20Lifetime%20Tracked-047884?style=flat-square) |
+| **Yearly Cadence** | ![Yearly Push](https://img.shields.io/badge/Yearly%20Velocity-High%20Frequency%20Contributions-06ACBD?style=flat-square&logo=git) |
+| **Core Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-High%20Performance%20Engine-0e75b6?style=flat-square&logo=c%2B%2B) ![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-Managed%20API%20Gateway-1565C0?style=flat-square&logo=.net) |
+| **Architectures** | ![ARM64 Optimization](https://img.shields.io/badge/Hardware-Apple%20M2%20P--Cores-green?style=flat-square) |
 
 ---
 
