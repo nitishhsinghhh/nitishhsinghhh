@@ -29,15 +29,16 @@
 * **Zero-Leak Policy:** Implemented strict "Callee-Allocates, Caller-Frees" memory contracts for zero-drift native execution.
 
 ---
-
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nitishhsinghhh?style=flat-square&logo=github&label=Network&color=047884" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Contributions-Global-06ACBD?style=flat-square&logo=git" alt="Global Contributions" />
-  <img src="https://img.shields.io/github/search/nitishhsinghhh/polyglot-engine?style=flat-square&label=Activity&color=0e75b6" alt="Code Activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&icon_color=06ACBD&text_color=a5b4fc" alt="Nitish's GitHub Total Commits" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=nitishhsinghhh&layout=compact&theme=dark&hide_border=true&bg_color=0f141c&title_color=047884&text_color=a5b4fc" alt="Nitish's Language Percentages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Total%20Profile%20Views&color=06ACBD&style=flat-square" alt="Profile Views Counter" />
+</p>
 ---
 
 ### Professional Focus
