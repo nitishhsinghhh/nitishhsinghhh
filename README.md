@@ -33,15 +33,7 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
-  <!-- Real-time Profile Views Counter -->
   <img src="https://profile-counter.glitch.me/nitishhsinghhh/count.svg" alt="Total Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Account Metrics & Language Focus -->
-  <img src="https://img.shields.io/badge/Global%20Commits-Active-047884?style=flat-square&logo=github" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/Primary%20Engine-C%2B%2B17%20%2F%20.NET%208-0e75b6?style=flat-square" alt="Language Balance" />
-  <img src="https://img.shields.io/badge/Architecture-Polyglot%20%7C%20ARM64-06ACBD?style=flat-square" alt="System Scope" />
 </p>
 
 ---
