@@ -33,6 +33,32 @@
 ### Technical Metrics & Velocity
 
 <p align="center">
+
+  <!-- Profile Total Contributions -->
+  <img src="https://img.shields.io/badge/Total%20Contributions-High%20Activity-047884?style=flat-square" />
+
+  <!-- Commit Volume -->
+  <img src="https://img.shields.io/badge/Total%20Commits-High%20Frequency-06ACBD?style=flat-square" />
+
+  <!-- Most Active Repo -->
+  <img src="https://img.shields.io/badge/Most%20Active%20Repo-case--conversion--api-0e75b6?style=flat-square" />
+
+  <!-- GitHub Streak (Current) -->
+  <img src="https://img.shields.io/badge/Current%20Streak-Active%20Dev-22c55e?style=flat-square" />
+
+  <!-- Longest Streak -->
+  <img src="https://img.shields.io/badge/Longest%20Streak-All%20Time%20Peak-007acc?style=flat-square" />
+
+  <!-- Ghost Activity (Inactive Detection) -->
+  <img src="https://img.shields.io/badge/Ghost%20Mode-Inactive%20Days%20Tracked-f43f5e?style=flat-square" />
+
+  <!-- Direct Contribution Flow -->
+  <img src="https://img.shields.io/badge/Direct%20Commits-Core%20Repository%20Focus-a855f7?style=flat-square" />
+
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/github/directory-file-count/nitishhsinghhh/case-conversion-api?style=flat-square&logo=github&label=Total%20Repositories&color=047884" alt="Total Repositories" />
   <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Monthly%20Commits&color=06ACBD" alt="Monthly Commits" />
   <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&label=Primary%20Engine&color=0e75b6" alt="Top Language" />
