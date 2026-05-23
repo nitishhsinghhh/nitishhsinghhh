@@ -34,9 +34,6 @@
 
 <p align="center">
 
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <!-- Contribution Streak (REAL) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&theme=tokyonight&hide_border=true" />
 
@@ -45,14 +42,9 @@
 
 </p>
 
----
-
 ### Language & Repo Insights
 
 <p align="center">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishhsinghhh&layout=compact&theme=tokyonight&hide_border=true" />
 
   <!-- Repo Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishhsinghhh&theme=tokyonight" />
@@ -61,8 +53,6 @@
 
 </p>
 
----
-
 ### Activity Intelligence
 
 <p align="center">
@@ -70,70 +60,7 @@
   <!-- Commit Activity -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitishhsinghhh&theme=tokyonight&utcOffset=5.5" />
 
-  <!-- Commit Distribution -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-details?username=nitishhsinghhh&theme=tokyonight" />
-
 </p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/directory-file-count/nitishhsinghhh/case-conversion-api?style=flat-square&logo=github&label=Total%20Repositories&color=047884" alt="Total Repositories" />
-  <img src="https://img.shields.io/github/commit-activity/m/nitishhsinghhh/case-conversion-api?style=flat-square&logo=git&label=Monthly%20Commits&color=06ACBD" alt="Monthly Commits" />
-  <img src="https://img.shields.io/github/languages/top/nitishhsinghhh/case-conversion-api?style=flat-square&label=Primary%20Engine&color=0e75b6" alt="Top Language" />
-
-<!-- 4. Total Repository Storage Size -->
-<img src="https://img.shields.io/github/repo-size/nitishhsinghhh/case-conversion-api?style=flat-square&label=Disk%20Footprint&color=007acc" alt="Repo Size" />
-
-<!-- 5. Dynamic Time Since Last Commit -->
-<img src="https://img.shields.io/github/last-commit/nitishhsinghhh/case-conversion-api?style=flat-square&label=Last%20Push&color=22c55e" alt="Last Commit" />
-
-<!-- 6. Total Closed Pull Requests Lifecycle -->
-<img src="https://img.shields.io/github/issues-pr-closed/nitishhsinghhh/case-conversion-api?style=flat-square&label=Merged%20PRs&color=a855f7" alt="Closed PRs" />
-
-<!-- 7. Active Work-In-Progress Pull Requests -->
-<img src="https://img.shields.io/github/issues-pr/nitishhsinghhh/case-conversion-api?style=flat-square&label=Open%20PRs&color=eab308" alt="Open PRs" />
-
-<!-- 8. Closed Production Issues Resolved -->
-<img src="https://img.shields.io/github/issues-closed/nitishhsinghhh/case-conversion-api?style=flat-square&label=Resolved%20Issues&color=ec4899" alt="Closed Issues" />
-
-<!-- 9. Open/Active Issues Tracker -->
-<img src="https://img.shields.io/github/issues/nitishhsinghhh/case-conversion-api?style=flat-square&label=Active%20Issues&color=f43f5e" alt="Open Issues" />
-
-<!-- 10. License Architecture Standard -->
-<img src="https://img.shields.io/github/license/nitishhsinghhh/case-conversion-api?style=flat-square&label=License&color=64748b" alt="License Type" />
-
-<!-- 11. Custom Runtime Deployment Environment Target -->
-<img src="https://img.shields.io/badge/Runtime-Cross%20Platform-047884?style=flat-square" alt="Runtime Target" />
-
-<!-- 12. Hardware Optimization Vector Targets -->
-<img src="https://img.shields.io/badge/Architecture-ARM64%20%7C%20x64-06ACBD?style=flat-square" alt="Processor Targets" />
-
-<!-- 13. System Telemetry State Indicator -->
-<img src="https://img.shields.io/badge/Telemetry-OpenTelemetry-0e75b6?style=flat-square" alt="Telemetry Stack" />
-
-<!-- 14. Code Verification Workflow Rules -->
-<img src="https://img.shields.io/badge/Pipeline-GitHub%20Actions-007acc?style=flat-square" alt="CI Engine" />
-
-<!-- 15. Real-time Infrastructure Uptime State -->
-<img src="https://img.shields.io/badge/Uptime-100%25-22c55e?style=flat-square" alt="System Health" />
-
-<!-- 16. Total Account Repository Collections Counter -->
-<img src="https://img.shields.io/badge/Source-Git-06ACBD?style=flat-square" alt="VCS Engine" />
-
-<!-- 17. Code Quality/Refactoring Cadence Tracker -->
-<img src="https://img.shields.io/badge/Maintainability-High%20Grade-22c55e?style=flat-square" alt="Quality Matrix" />
-
-<!-- 18. Engineering Contribution Frequency Meter -->
-<img src="https://img.shields.io/badge/Velocity-Continuous%20Delivery-047884?style=flat-square" alt="Delivery Flow" />
-
-<!-- 19. System API Design Pattern Standard -->
-<img src="https://img.shields.io/badge/API-REST%20Gateway-0e75b6?style=flat-square" alt="API Blueprint" />
-
-<!-- 20. Code Compiling Optimization Level State -->
-<img src="https://img.shields.io/badge/Build-Native%20Optimization-007acc?style=flat-square" alt="Compiler Goal" />
-</p>
-
-
 
 ---
 
