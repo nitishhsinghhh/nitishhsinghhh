@@ -30,30 +30,48 @@
 
 ---
 
-### Technical Metrics & Velocity
+### Technical Metrics & Engineering Activity
 
 <p align="center">
 
-  <!-- Profile Total Contributions -->
-  <img src="https://img.shields.io/badge/Total%20Contributions-High%20Activity-047884?style=flat-square" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishhsinghhh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <!-- Commit Volume -->
-  <img src="https://img.shields.io/badge/Total%20Commits-High%20Frequency-06ACBD?style=flat-square" />
+  <!-- Contribution Streak (REAL) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&theme=tokyonight&hide_border=true" />
 
-  <!-- Most Active Repo -->
-  <img src="https://img.shields.io/badge/Most%20Active%20Repo-case--conversion--api-0e75b6?style=flat-square" />
+  <!-- Contribution Graph Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishhsinghhh&theme=tokyonight" />
 
-  <!-- GitHub Streak (Current) -->
-  <img src="https://img.shields.io/badge/Current%20Streak-Active%20Dev-22c55e?style=flat-square" />
+</p>
 
-  <!-- Longest Streak -->
-  <img src="https://img.shields.io/badge/Longest%20Streak-All%20Time%20Peak-007acc?style=flat-square" />
+---
 
-  <!-- Ghost Activity (Inactive Detection) -->
-  <img src="https://img.shields.io/badge/Ghost%20Mode-Inactive%20Days%20Tracked-f43f5e?style=flat-square" />
+### Language & Repo Insights
 
-  <!-- Direct Contribution Flow -->
-  <img src="https://img.shields.io/badge/Direct%20Commits-Core%20Repository%20Focus-a855f7?style=flat-square" />
+<p align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishhsinghhh&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <!-- Repo Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishhsinghhh&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishhsinghhh&theme=tokyonight" />
+
+</p>
+
+---
+
+### Activity Intelligence
+
+<p align="center">
+
+  <!-- Commit Activity -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitishhsinghhh&theme=tokyonight&utcOffset=5.5" />
+
+  <!-- Commit Distribution -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-details?username=nitishhsinghhh&theme=tokyonight" />
 
 </p>
 
