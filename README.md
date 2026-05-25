@@ -36,10 +36,6 @@
 
   <!-- Contribution Streak (REAL) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nitishhsinghhh&theme=tokyonight&hide_border=true" />
-
-  <!-- Contribution Graph Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishhsinghhh&theme=tokyonight" />
-
 </p>
 
 ---
