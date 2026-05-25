@@ -42,25 +42,6 @@
 
 </p>
 
-### Language & Repo Insights
-
-<p align="center">
-
-  <!-- Repo Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishhsinghhh&theme=tokyonight" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishhsinghhh&theme=tokyonight" />
-
-</p>
-
-### Activity Intelligence
-
-<p align="center">
-
-  <!-- Commit Activity -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitishhsinghhh&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 ---
 
 ### Professional Focus
