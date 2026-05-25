@@ -59,7 +59,6 @@
 
   <!-- Commit Activity -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitishhsinghhh&theme=tokyonight&utcOffset=5.5" />
-
 </p>
 
 ---
