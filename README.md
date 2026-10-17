@@ -1,8 +1,6 @@
 # Nitish Singh | Lead Software Systems Engineer
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Profile%20views&color=0e75b6&style=flat" alt="nitishhsinghhh" /> 
-</p>
+<img src="https://komarev.com/ghpvc/?username=nitishhsinghhh&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 > **Architecting High-Performance Systems & Native Interop Engines**  
 > Bridging managed runtimes (.NET 8) with high-concurrency native logic (C++17).  
